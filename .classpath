@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="Homework 4. Abstract Classes, Wrapper Classes, Strings"/>
 	<classpathentry kind="src" path="Homework 5 Design Principles and Exceptions"/>
+	<classpathentry kind="src" path="Praesenzaufgaben"/>
+	<classpathentry kind="src" path="Homework 6 Threads, Testing, File Handling"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

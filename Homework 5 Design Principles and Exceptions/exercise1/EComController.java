@@ -7,7 +7,7 @@ public class EComController {
 			ShippingInfo info = new ShippingInfo(" Munich", 80331, "Germany ");
 		
 		Profile profile = new Profile(info);
-		Customer customer = new Customer(profile, 123);
+		Customer customer = new Customer(profile, -1);
 		System.out.println(" Shipping to: " + customer.getProfile().getShippingInfo().getCity());
 		}
 		catch (MissingShippingInfoException | InvalidShippingInfoException | InvalidCustomerException e) {
