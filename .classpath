@@ -3,6 +3,9 @@
 	<classpathentry kind="src" path="Homework 5 Design Principles and Exceptions"/>
 	<classpathentry kind="src" path="Praesenzaufgaben"/>
 	<classpathentry kind="src" path="Homework 6 Threads, Testing, File Handling"/>
+	<classpathentry kind="src" path="Recap"/>
+	<classpathentry kind="src" path="Homewrok 8 Introduction to Generics and Collection"/>
+	<classpathentry kind="src" path="Homework 9 Advanced Class Variants and Functional Aspects"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="bin"/>
